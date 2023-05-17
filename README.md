@@ -1,16 +1,19 @@
-### Hi there 👋
+![logo](./assets/facebook_cover_photo_1.png)
 
-<!--
-**wbydo/wbydo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# wbydo
 
-Here are some ideas to get you started:
+I'm Hibiki Sakuraoka🫣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### 🏢 Used in business
+
+[![Used in business](https://skillicons.dev/icons?i=solidity,ts,nodejs,mysql)](https://skillicons.dev)
+
+### 📝 Used them in my business, but not so much now.
+
+[![Used them in my business, but not so much now.](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+
+### 💜 Love
+
+[![Love](https://skillicons.dev/icons?i=react,java,py,emacs,ableton)](https://skillicons.dev)
