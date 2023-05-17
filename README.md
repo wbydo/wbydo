@@ -17,3 +17,9 @@ I'm Hibiki Sakuraoka🫣
 ### 💜 Love
 
 [![Love](https://skillicons.dev/icons?i=react,java,py,emacs,ableton)](https://skillicons.dev)
+
+## Contact Me
+
+- HP: https://wbydo.com
+- Twitter: https://twitter.com/DekinaiFootball
+- LinkedIn: https://www.linkedin.com/in/wbydo/
